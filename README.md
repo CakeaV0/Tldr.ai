@@ -53,9 +53,9 @@ news_api_key = "YOUR_NEWS_API_KEY_HERE"
 
 ## ✨ Screenshots
 
-![Summary Preview](![image](https://github.com/user-attachments/assets/3b87b3c0-9fc7-4bea-b680-038e640b979a)
-![Trending Topics](![image](https://github.com/user-attachments/assets/e21d958a-e467-420e-b028-ea8a857cd9cd)
-![Topic Map](![image](https://github.com/user-attachments/assets/e39b785e-03bf-4350-b291-062c9fae0c8e)
+!Summary Preview ![image](https://github.com/user-attachments/assets/3b87b3c0-9fc7-4bea-b680-038e640b979a)
+!Trending Topics ![image](https://github.com/user-attachments/assets/e21d958a-e467-420e-b028-ea8a857cd9cd)
+!Topic Map ![image](https://github.com/user-attachments/assets/e39b785e-03bf-4350-b291-062c9fae0c8e)
 
 ## 🤝 License
 
