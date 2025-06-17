@@ -1,25 +1,17 @@
-Tldr.ai is an AI-powered news summarizer and trend explorer for people who want the what, why, and who — without the scroll fatigue.
+# 📰 AI News Summarizer & Topic Grouper
 
-It fetches the latest global headlines, summarizes articles using advanced NLP models (BART, T5, mBART), groups related stories by topic clusters, analyzes sentiment, and highlights key named entities.
+An AI-powered web app that automatically fetches the latest news, summarizes them, detects sentiment, extracts named entities, and visualizes topic clusters. Built with 🧠 Transformers, 📊 Plotly, and 🔥 Streamlit.
 
-Features include:
+## 🔍 Features
 
-Multilingual summarization
-
-Real-time topic clustering
-
-Sentiment tracking
-
-Word cloud & trending entity visualizations
-
-Bookmarking & one-click exports
-
-Auto-refresh news scheduling
-
-Whether you're a news junkie, analyst, or just want to stay updated in less time — Tldr.ai gets you the story behind the noise.
-
-
-"# 📰 AI News Summarizer & Topic Grouper
+- ✅ Live news fetching via NewsAPI
+- ✅ Abstractive summarization using models like BART, T5, and MBART (multilingual)
+- ✅ Sentiment analysis & named entity recognition (NER)
+- ✅ Bookmarking system
+- ✅ CSV/JSON export
+- ✅ Interactive topic clustering & entity charts
+- ✅ Auto-refresh news scheduling
+- ✅ Word cloud of trending entities
 
 ## 🚀 Live Demo
 
@@ -68,4 +60,3 @@ news_api_key = "YOUR_NEWS_API_KEY_HERE"
 ## 🤝 License
 
 MIT License © 2025
-"
