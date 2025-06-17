@@ -21,19 +21,6 @@ Whether you're a news junkie, analyst, or just want to stay updated in less time
 
 "# 📰 AI News Summarizer & Topic Grouper
 
-An AI-powered web app that automatically fetches the latest news, summarizes them, detects sentiment, extracts named entities, and visualizes topic clusters. Built with 🧠 Transformers, 📊 Plotly, and 🔥 Streamlit.
-
-## 🔍 Features
-
-- ✅ Live news fetching via NewsAPI
-- ✅ Abstractive summarization using models like BART, T5, and MBART (multilingual)
-- ✅ Sentiment analysis & named entity recognition (NER)
-- ✅ Bookmarking system
-- ✅ CSV/JSON export
-- ✅ Interactive topic clustering & entity charts
-- ✅ Auto-refresh news scheduling
-- ✅ Word cloud of trending entities
-
 ## 🚀 Live Demo
 
 > Coming soon: [Streamlit Cloud Deployment Link](https://share.streamlit.io/your-username/news-summarizer/main/app.py)
